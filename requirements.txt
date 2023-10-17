@@ -1,0 +1,4 @@
+beautifulsoup4==4.11.1
+python-telegram-bot==20.3
+Requests==2.31.0
+google-cloud-storage
